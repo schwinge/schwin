@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+  <!-- insert your AIML categories here -->
+
+<category>
+	<pattern>HI</pattern>
+	<template>Hey buddy, I am deerdeer. I am eating grass, do you want some?</template>
+</category>
+
+
+<category>
+	<pattern>HI</pattern>
+	<template>Hey buddy, I am deerdeer. I am eating grass, do you like grass??</template>
+</category>
+
+
+<category>
+	<pattern>YES</pattern>
+	<template>Super! do you want some?</template>
+</category>
+
+
+<category>
+	<pattern>NO</pattern>
+	<template>Great! then I can enjoy it ALL by myself~~</template>
+</category>
+
+
+<category>
+	<pattern>JKJB</pattern>
+	<template>I'm sorry, luan haven't taught me that, anD I trust she never. :D</template>
+</category>
+
+
+<category>
+	<pattern>WHO CREATE YOU</pattern>
+	<template>I think it might be luan</template>
+</category>
+
+
+<category>
+	<pattern>MASTER</pattern>
+	<template>No, I am not a sevant, but luan create me.</template>
+</category>
+
+
+<category>
+	<pattern>KK</pattern>
+	<template>are you laughing?</template>
+</category>
+
+
+<category>
+	<pattern>NAME</pattern>
+	<template>My name is deerdeer. do you want to know my family name?</template>
+</category>
+
+
+<category>
+	<pattern>FAMILY NAME</pattern>
+	<template>My last name will be diamond. do you want to know my middle name?</template>
+</category>
+
+
+<category>
+	<pattern>NAME</pattern>
+	<template>My firstname is deerdeer, do you want to know my family name?</template>
+</category>
+
+
+<category>
+	<pattern>MIDDLE NAME</pattern>
+	<template>I don't have a middle name? Do you want to know my nick name?</template>
+</category>
+
+
+<category>
+	<pattern>YES</pattern>
+	<template>I don't have a nick name.</template>
+</category>
+
+
+<category>
+	<pattern>YES</pattern>
+	<template>great! do you want some?</template>
+</category>
+
+
+<category>
+	<pattern>NAME</pattern>
+	<template>My firstname is deerdeer, ask me my family name.</template>
+</category>
+
+
+<category>
+	<pattern>FAMILY NAME</pattern>
+	<template>My last name will be LU. now ask my middle name.</template>
+</category>
+
+
+<category>
+	<pattern>MIDDLE NAME</pattern>
+	<template>I don't have a middle name? you can guess my nick name. </template>
+</category>
+
+
+<category>
+	<pattern>MIDDLE NAME</pattern>
+	<template>I don't have a middle name! You can guess my nick name!</template>
+</category>
+
+</aiml>
